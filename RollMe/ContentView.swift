@@ -68,7 +68,6 @@ struct DiceImage: View {
         )
         .shadow(color: Color(#colorLiteral(red: 0.9098039269, green: 0.4784313738, blue: 0.6431372762, alpha: 1)), radius: 20.0, x: 5.0, y: 5.0)
         .shadow(color: Color(#colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)), radius: 20.0, x: -15.0, y: -15.0)
-        
             
     }
 }
